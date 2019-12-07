@@ -1,0 +1,34 @@
+﻿body {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+header {
+    background: #f6caca;
+    padding: 35px;
+    font-size: 32px;
+    text-align: center;
+}
+footer {
+    padding: 25px;
+    font-size: 32px;
+    text-align: center;
+}
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.confirm_cancel {
+    width: 100%;
+    margin: 0 auto;
+    /*text-align: center;*/
+    padding: 0 0 25px 0;
+}
+.update_flower {
+    padding-right: 35px;
+}
+.box, .updatePanel {
+    padding-bottom: 15px;
+}
+.addFlower {
+    padding-bottom: 15px;
+}
